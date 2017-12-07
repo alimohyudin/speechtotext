@@ -1,0 +1,14 @@
+{
+  "name": "speechtotext",
+  "version": "1.0.0",
+  "description": "Speech to text",
+  "main": "index.js",
+  "scripts": {
+    "start": "node appMain.js"
+  },
+  "author": "Ali Mohyudin",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4"
+  }
+}
